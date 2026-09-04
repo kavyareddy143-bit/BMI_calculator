@@ -2,6 +2,7 @@
 # Ex06 BMI Calculator
 ## Date:04/09/2026
 
+
 ## AIM
 To create a BMI calculator using React Router 
 
